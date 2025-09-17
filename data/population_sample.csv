@@ -1,4 +1,5 @@
 State,Population
+<<<<<<< HEAD
 Maharashtra,82963475
 Delhi,8262904
 Karnataka,118896936
@@ -9,3 +10,15 @@ Gujarat,44717871
 Rajasthan,97960074
 Bihar,10474252
 Kerala,118446571
+=======
+Maharashtra,27609065
+Delhi,16075103
+Karnataka,89988759
+Tamil Nadu,38606990
+Uttar Pradesh,62583624
+West Bengal,55030021
+Gujarat,51208315
+Rajasthan,64976888
+Bihar,115567687
+Kerala,83734067
+>>>>>>> 1b5b9c71561a11fb6ffdf08c49cfa42664dcd673
