@@ -1,4 +1,5 @@
-NSE Stock Price Prediction Project
+# Stock Price Prediction Project
+
 This Python project analyzes and predicts stock prices using a combination of machine learning and time series forecasting models on the India Stock Data (NSE 1990-2020) dataset from Kaggle.
 
 Dataset
